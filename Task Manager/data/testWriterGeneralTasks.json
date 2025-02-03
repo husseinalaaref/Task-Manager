@@ -1,0 +1,26 @@
+{"tasks": [
+    {
+        "timeRequired": 120,
+        "taskName": "MATH 344",
+        "deadline": "2024-10-10T11:59",
+        "isDone": false
+    },
+    {
+        "timeRequired": 90,
+        "taskName": "STAT 302",
+        "deadline": "2024-10-10T11:59",
+        "isDone": false
+    },
+    {
+        "timeRequired": 180,
+        "taskName": "CHEM 121",
+        "deadline": "2024-10-10T11:59",
+        "isDone": true
+    },
+    {
+        "timeRequired": 100,
+        "taskName": "STAT 306",
+        "deadline": "2024-10-10T11:59",
+        "isDone": false
+    }
+]}

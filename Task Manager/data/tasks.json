@@ -1,0 +1,14 @@
+{"tasks": [
+    {
+        "timeRequired": 20,
+        "taskName": "MATH",
+        "deadline": "2024-10-11T11:59",
+        "isDone": false
+    },
+    {
+        "timeRequired": 120,
+        "taskName": "CPSC 210",
+        "deadline": "2024-11-10T11:59",
+        "isDone": false
+    }
+]}

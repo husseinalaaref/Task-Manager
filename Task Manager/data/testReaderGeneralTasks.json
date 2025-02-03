@@ -1,0 +1,23 @@
+{
+    "tasks": [
+        {
+            "taskName": "STAT 306",
+            "timeRequired": 60,
+            "deadline": "2024-10-11T11:59",
+            "isDone": false
+        },
+        {
+            "taskName": "MATH 307",
+            "timeRequired": 45,
+            "deadline": "2024-10-12T10:00",
+            "isDone": true
+        },
+        {
+            "taskName": "PHYS 131",
+            "timeRequired": 90,
+            "deadline": "2024-10-13T14:00",
+            "isDone": false
+        }
+    ]
+}
+
